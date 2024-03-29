@@ -8,3 +8,10 @@ There are two types of recommendation system -
 3. Collaborative filtering
    
    Collaborative filtering makes recommendations by identifying patterns in user behavior, typically by analyzing user-item interaction data. It doesn't rely on item attributes but rather on the preferences of other users.
+
+
+#Dataset Used 
+
+MovieLens 100k Dataset
+
+link - 

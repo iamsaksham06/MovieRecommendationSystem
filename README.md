@@ -1,6 +1,6 @@
 # MovieRecommendationSystem
 
-There are two types of recommendatio system -
+There are two types of recommendation system -
 1. Content based
    
    Content-based recommendation systems recommend items similar to those the user has liked or interacted with in the past. This similarity is determined based on the attributes or features of the items.

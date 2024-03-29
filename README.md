@@ -1,4 +1,4 @@
-# MovieRecommendationSystem
+# Movie Recommendation System
 
 There are two types of recommendation system -
 1. Content based

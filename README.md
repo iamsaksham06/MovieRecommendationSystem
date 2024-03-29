@@ -25,3 +25,15 @@ This data set consists of:
 * Simple demographic info for the users (age, gender, occupation, zip)
 
 The data was collected during the seven-month period from September 19th, 1997 through April 22nd, 1998.
+
+# Preparing Dataset
+
+Used two files - 'u.data','u.item'
+Used columns - 'user_id', 'item_id', 'rating' and 'movie_title' from both files and combined these columns to make a dataframe 'df'.
+
+# Exploratory Data Analysis
+
+
+
+
+

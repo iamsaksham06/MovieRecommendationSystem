@@ -26,4 +26,4 @@ This data set consists of:
 * Each user has rated at least 20 movies.
 * Simple demographic info for the users (age, gender, occupation, zip)
 
-The data was collected through the MovieLens web site (movielens.umn.edu) during the seven-month period from September 19th, 1997 through April 22nd, 1998.
+The data was collected during the seven-month period from September 19th, 1997 through April 22nd, 1998.

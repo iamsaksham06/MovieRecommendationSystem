@@ -16,8 +16,6 @@ We are designing a content based recommandation system using a big dataset
 
 MovieLens 100k Dataset
 
-link - https://drive.google.com/drive/folders/1rykD4bbJVO6-WOfPgLFOFZrKa8eXJIDJ?usp=drive_link
-
 It contains many files which gives us vast information about data. 
 
 This data set consists of:

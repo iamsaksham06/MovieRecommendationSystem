@@ -1,1 +1,13 @@
 # MovieRecommendationSystem
+
+There are two types of recommendatio system -
+1. Content based
+2. Collaborative filtering
+
+1. Content based recommendation system -
+   
+   Content-based recommendation systems recommend items similar to those the user has liked or interacted with in the past. This similarity is determined based on the attributes or features of the items.
+
+2. Collaborative filtering -
+
+   Collaborative filtering makes recommendations by identifying patterns in user behavior, typically by analyzing user-item interaction data. It doesn't rely on item attributes but rather on the preferences of other users.
